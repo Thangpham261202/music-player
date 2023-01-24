@@ -29,4 +29,40 @@ let allMusic = [
     img: "0 (1)",
     src: "y2mate.com - Dont Côi  x Ronboogz Visualizer",
   },
+  {
+    name: "See You Again",
+    artist: "Charlie Puth",
+    img: "0 (2)",
+    src: "y2mate.com - Wiz Khalifa  See You Again Lyrics ft Charlie Puth",
+  },
+  {
+    name: "Love Yourself",
+    artist: "Justin Bieber",
+    img: "0 (3)",
+    src: "y2mate.com - Justin Bieber  Love Yourself Lyrics  Mix",
+  },
+  {
+    name: "Why not me",
+    artist: "Enrique Iglesias",
+    img: "0 (4)",
+    src: "y2mate.com - Enrique Iglesias  Why Not Me Lyrics",
+  },
+  {
+    name: "Night Changes",
+    artist: "One Direction",
+    img: "0 (5)",
+    src: "y2mate.com - One Direction  Night Changes Lyrics",
+  },
+  {
+    name: "Closer(Nhiều bài)",
+    artist: "Lyric",
+    img: "0 (6)",
+    src: "y2mate.com - Closer  The Chainsmokers Lyrics One Direction Maroon 5",
+  },
+  {
+    name: "I do",
+    artist: "911",
+    img: "0 (7)",
+    src: "y2mate.com - VietsubLyrics I Do  911",
+  },
 ];
