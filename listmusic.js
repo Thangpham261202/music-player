@@ -17,4 +17,10 @@ let allMusic = [
     img: "744418",
     src: "y2mate.com - XHTDRLX2  Tôi Thấy Hoa Vàng Trên Cỏ Xanh  Ái Phương x Trúc Nhân lần đầu kết hợp cùng nhau",
   },
+  {
+    name: "Perfect",
+    artist: "Ed Sheeran",
+    img: "0",
+    src: "y2mate.com - Ed Sheeran  Perfect Lyrics ",
+  },
 ];
