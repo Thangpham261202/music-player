@@ -136,3 +136,15 @@ function clicked(u) {
   loadMusic(musicIndex);
   playMusic();
 }
+let againMusic = wrapper.querySelector("#repeat-plist");
+againMusic.addEventListener("click", function () {
+  againMusic.classList.toggle("repeat");
+});
+musicAudio.addEventListener("ended", function () {
+  console.log(againMusic.classList.contains("repeat"));
+  if (againMusic.classList.contains("repeat")) {
+    musicAudio.currentTime = 0;
+    loadMusic(musicIndex);
+    musicAudio.play();
+  } else nextMusic();
+});
